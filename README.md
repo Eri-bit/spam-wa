@@ -6,8 +6,14 @@
 =>> cd spam wa
 
 
+
+=>> git pull
+
+
+
 =>> python wa.py
 
 
 
-               Selamat Mencoba
+              
+ Selamat Mencoba
